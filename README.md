@@ -1,6 +1,33 @@
 # proyecto2025
 Estructura de Proyecto Taller de Desarrollo Web - 2025
 
+## Título del proyecto
+Tienda de Vapers
+
+## Autores
+**Almada**, Federico
+**Gualdoni**, Tomás
+
+## Link de gh-pages
+[Tienda de Vapers](link)
+
+## Contenido de la página 
+|           Contenido             | 
+|---------------------------------|
+|  Catálogo de Productos (vapers) |
+|  Carrito de compras             |
+|  Compra final vía WhatsApp      | 
+|  Filtro de edad                 |
+|  Filtro de búsqueda             |
+|  Interfaz dinamica              |
+|  Contacto                       |
+|  Productos más vendidos         |
+
+## Listado de tecnologías usadas
+- HTML
+- CSS
+- JavaScript
+
 ## Requisitos del Primer Parcial
 
 ### Sobre el Sketch
