@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elf Bar BC5000 Ultra",
+    "marca": "Elf Bar",
+    "precio": 85000,
+    "puffs": 10000,
+    "features": [
+      "Diseño compacto"
+    ],
+    "imagen": "imagenes/elf-bar-bc5000-ultra.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Lost Mary Galaxy",
+    "marca": "Lost Mary",
+    "precio": 90000,
+    "puffs": 11000,
+    "features": [
+      "Sabores frutales"
+    ],
+    "imagen": "imagenes/lost-mary-galaxy.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Vuse Pod Max",
+    "marca": "Vuse",
+    "precio": 58000,
+    "puffs": 5000,
+    "features": [
+      "Variedad de cápsulas"
+    ],
+    "imagen": "imagenes/vuse-pod-max.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Elf Bar BC4000",
+    "marca": "Elf Bar",
+    "precio": 70000,
+    "puffs": 9000,
+    "features": [
+      "Tamaño portátil"
+    ],
+    "imagen": "imagenes/elf-bar-bc4000.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Lost Mary Pro",
+    "marca": "Lost Mary",
+    "precio": 80000,
+    "puffs": 10000,
+    "features": [
+      "Sabores intensos"
+    ],
+    "imagen": "imagenes/lost-mary-pro.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Vuse Pod Standard",
+    "marca": "Vuse",
+    "precio": 50000,
+    "puffs": 4000,
+    "features": [
+      "Diseño ergonómico"
+    ],
+    "imagen": "imagenes/vuse-pod-standard.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Elf Bar Crystal",
+    "marca": "Elf Bar",
+    "precio": 98000,
+    "puffs": 13000,
+    "features": [
+      "Diseño transparente"
+    ],
+    "imagen": "imagenes/elf-bar-crystal.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Lost Mary Ice",
+    "marca": "Lost Mary",
+    "precio": 87000,
+    "puffs": 9000,
+    "features": [
+      "Notas mentoladas"
+    ],
+    "imagen": "imagenes/lost-mary-ice.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Vuse Eco",
+    "marca": "Vuse",
+    "precio": 55000,
+    "puffs": 6000,
+    "features": [
+      "Reciclable"
+    ],
+    "imagen": "imagenes/vuse-eco.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Elf Bar Lux 1500",
+    "marca": "Elf Bar",
+    "precio": 65000,
+    "puffs": 1500,
+    "features": [
+      "Compacto y elegante"
+    ],
+    "imagen": "imagenes/elf-bar-lux-1500.jpg",
+    "masVendido": true
+  },
+  {
+    "id": 11,
+    "nombre": "Lost Mary OS5000",
+    "marca": "Lost Mary",
+    "precio": 95000,
+    "puffs": 5000,
+    "features": [
+      "Sabores premium"
+    ],
+    "imagen": "imagenes/lost-mary-os5000.jpg",
+    "masVendido": true
+  },
+  {
+    "id": 12,
+    "nombre": "Vuse Alto",
+    "marca": "Vuse",
+    "precio": 60000,
+    "puffs": 1800,
+    "features": [
+      "Fácil de usar"
+    ],
+    "imagen": "imagenes/vuse-alto.jpg",
+    "masVendido": true
+  }
+]
