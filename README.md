@@ -1,17 +1,29 @@
 # proyecto2025
 Estructura de Proyecto Taller de Desarrollo Web - 2025
 
-## Título del proyecto
+## Índice
+
+* [Información del Proyecto](#información-del-proyecto)
+* [Requisitos del Primer Parcial](#requisitos-del-primer-parcial)
+* [Requisitos del Segundo Parcial](#requisitos-del-segundo-parcial)
+* [Requisitos del FINAL](#requisitos-del-final)
+
+---
+
+## Información del Proyecto
+
+### Título del proyecto
 Tienda de Vapers
 
-## Autores
+### Autores
 **Almada**, Federico
 **Gualdoni**, Tomás
 
-## Link de gh-pages
-[Tienda de Vapers](link)
+### Link de gh-pages
+[Tienda de Vapers](https://TU_USUARIO_DE_GITHUB.github.io/Proyecto2025-Almada-Gualdoni/)
 
-## Contenido de la página 
+
+### Contenido de la página 
 |           Contenido             | 
 |---------------------------------|
 |  Catálogo de Productos (vapers) |
@@ -19,14 +31,16 @@ Tienda de Vapers
 |  Compra final vía WhatsApp      | 
 |  Filtro de edad                 |
 |  Filtro de búsqueda             |
-|  Interfaz dinamica              |
+|  Interfaz dinámica              |
 |  Contacto                       |
 |  Productos más vendidos         |
 
-## Listado de tecnologías usadas
+### Listado de tecnologías usadas
 - HTML
 - CSS
 - JavaScript
+
+---
 
 ## Requisitos del Primer Parcial
 
@@ -137,8 +151,7 @@ Se debe agregar funcionalidad Js a la página HTML+CSS desarrollada
      * @param {number} ParámetroB - Explicación de que valor almacena ParámetroB
      * @return Valor que retorna
      */
-   ```
-
+     
 ### Testing 
 
 - Es sumamente IMPORTANTE probar el funcionamiento de la página con diferentes valores.

@@ -347,7 +347,15 @@ const toggleCarrito = () => {
     console.error('Error: Elemento con ID "cart-modal" no encontrado.');
     return;
   }
-  modal.style.display = modal.style.display === 'none' ? 'flex' : 'none';
+
+  const currentDisplay = window.getComputedStyle(modal).display;
+
+  if (currentDisplay === 'none') {
+  
+    modal.style.display = 'flex';
+  } else {
+    modal.style.display = 'none';
+  }
 };
 
 /**
